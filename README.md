@@ -26,4 +26,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/SachinManral/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+## Stack
+|  |
+| ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/SachinManral/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/SachinManral/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/SachinManral/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
