@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/SachinManral/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0978-valid-mountain-array](https://github.com/SachinManral/LeetCode/tree/master/0978-valid-mountain-array) |
 | [0979-di-string-match](https://github.com/SachinManral/LeetCode/tree/master/0979-di-string-match) |
+| [1505-create-target-array-in-the-given-order](https://github.com/SachinManral/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1651-shuffle-string](https://github.com/SachinManral/LeetCode/tree/master/1651-shuffle-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SachinManral/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## String
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SachinManral/LeetCode/tree/master/0054-spiral-matrix) |
+| [1505-create-target-array-in-the-given-order](https://github.com/SachinManral/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 ## Database
 |  |
 | ------- |
