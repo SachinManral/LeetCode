@@ -7,7 +7,6 @@ class Solution {
         
         int i = 0, j = 0, k = 0;
 
-        // Merge both arrays
         while (i < n && j < m) {
             if (nums1[i] < nums2[j]) {
                 merge[k++] = nums1[i++];
