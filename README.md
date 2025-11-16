@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SachinManral/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/SachinManral/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0054-spiral-matrix](https://github.com/SachinManral/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SachinManral/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SachinManral/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SachinManral/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/SachinManral/LeetCode/tree/master/0125-valid-palindrome) |
 | [0474-ones-and-zeroes](https://github.com/SachinManral/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0979-di-string-match](https://github.com/SachinManral/LeetCode/tree/master/0979-di-string-match) |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SachinManral/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SachinManral/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SachinManral/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
