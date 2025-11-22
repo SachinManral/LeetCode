@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/SachinManral/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/SachinManral/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SachinManral/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SachinManral/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0474-ones-and-zeroes](https://github.com/SachinManral/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SachinManral/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SachinManral/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/SachinManral/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/SachinManral/LeetCode/tree/master/0050-powx-n) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SachinManral/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0728-self-dividing-numbers](https://github.com/SachinManral/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SachinManral/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/SachinManral/LeetCode/tree/master/2032-largest-odd-number-in-string) |
