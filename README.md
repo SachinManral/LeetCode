@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SachinManral/LeetCode/tree/master/0050-powx-n) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SachinManral/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0728-self-dividing-numbers](https://github.com/SachinManral/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SachinManral/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/SachinManral/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SachinManral/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/SachinManral/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SachinManral/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SachinManral/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Binary Search
 |  |
