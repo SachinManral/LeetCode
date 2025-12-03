@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/SachinManral/LeetCode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/SachinManral/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/SachinManral/LeetCode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/SachinManral/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/SachinManral/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SachinManral/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/SachinManral/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/SachinManral/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SachinManral/LeetCode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/SachinManral/LeetCode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/SachinManral/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/SachinManral/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SachinManral/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SachinManral/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/SachinManral/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/SachinManral/LeetCode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/SachinManral/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0474-ones-and-zeroes](https://github.com/SachinManral/LeetCode/tree/master/0474-ones-and-zeroes) |
