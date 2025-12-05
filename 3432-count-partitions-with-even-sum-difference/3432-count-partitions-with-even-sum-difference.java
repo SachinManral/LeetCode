@@ -6,16 +6,16 @@ class Solution {
         }
         int curr = 0;
         int count = 0;
-        for(int i=0; i<nums.length; i++) {
+        for(int i=0; i<nums.length-1; i++) {
             sum -= nums[i];
             curr += nums[i];
             if((sum-curr)%2==0) {
                 count++;
             }
         }
-        if(count > 0) {
-            return count -1;
-        }
+        // if(count > 0) {
+        //     return count -1;
+        // }
         return count;
     }
 }
