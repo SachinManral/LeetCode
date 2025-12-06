@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/SachinManral/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SachinManral/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/SachinManral/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0931-minimum-falling-path-sum](https://github.com/SachinManral/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0978-valid-mountain-array](https://github.com/SachinManral/LeetCode/tree/master/0978-valid-mountain-array) |
 | [0979-di-string-match](https://github.com/SachinManral/LeetCode/tree/master/0979-di-string-match) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SachinManral/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/SachinManral/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0174-dungeon-game](https://github.com/SachinManral/LeetCode/tree/master/0174-dungeon-game) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SachinManral/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/SachinManral/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SachinManral/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SachinManral/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Hash Table
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/SachinManral/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/SachinManral/LeetCode/tree/master/0174-dungeon-game) |
 | [0474-ones-and-zeroes](https://github.com/SachinManral/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0931-minimum-falling-path-sum](https://github.com/SachinManral/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 ## Counting
 |  |
 | ------- |
