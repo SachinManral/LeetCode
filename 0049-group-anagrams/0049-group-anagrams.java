@@ -7,8 +7,11 @@ class Solution {
             Arrays.sort(arr);
             String key = new String(arr);
 
-            mp.computeIfAbsent(key, k -> new ArrayList<>()).add(s);
+            if (!mp.containsKey(key)) {
+                mp.put(key, new ArrayList<>());
+            }
 
+            mp.get(key).add(s);
         }
         List<List<String>> result=new ArrayList<>();
 
