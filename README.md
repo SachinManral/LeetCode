@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/SachinManral/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/SachinManral/LeetCode/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/SachinManral/LeetCode/tree/master/0577-employee-bonus) |
+| [0620-not-boring-movies](https://github.com/SachinManral/LeetCode/tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/SachinManral/LeetCode/tree/master/1045-customers-who-bought-all-products) |
 ## Dynamic Programming
 |  |
