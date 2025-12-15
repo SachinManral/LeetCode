@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/SachinManral/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/SachinManral/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1205-defanging-an-ip-address](https://github.com/SachinManral/LeetCode/tree/master/1205-defanging-an-ip-address) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SachinManral/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/SachinManral/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/SachinManral/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1651-shuffle-string](https://github.com/SachinManral/LeetCode/tree/master/1651-shuffle-string) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/SachinManral/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/SachinManral/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/SachinManral/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SachinManral/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Counting
 |  |
 | ------- |
