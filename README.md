@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/SachinManral/LeetCode/tree/master/0979-di-string-match) |
 | [0994-rotting-oranges](https://github.com/SachinManral/LeetCode/tree/master/0994-rotting-oranges) |
 | [1049-last-stone-weight-ii](https://github.com/SachinManral/LeetCode/tree/master/1049-last-stone-weight-ii) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/SachinManral/LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1470-shuffle-the-array](https://github.com/SachinManral/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SachinManral/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/SachinManral/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/SachinManral/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/SachinManral/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/SachinManral/LeetCode/tree/master/0994-rotting-oranges) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/SachinManral/LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SachinManral/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SachinManral/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Hash Table
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/SachinManral/LeetCode/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/SachinManral/LeetCode/tree/master/0994-rotting-oranges) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/SachinManral/LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Game Theory
 |  |
 | ------- |
