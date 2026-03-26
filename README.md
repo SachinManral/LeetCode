@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SachinManral/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SachinManral/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SachinManral/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Two Pointers
 |  |
 | ------- |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/SachinManral/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/SachinManral/LeetCode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/SachinManral/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SachinManral/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/SachinManral/LeetCode/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/SachinManral/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/SachinManral/LeetCode/tree/master/1049-last-stone-weight-ii) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/SachinManral/LeetCode/tree/master/0322-coin-change) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SachinManral/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0815-bus-routes](https://github.com/SachinManral/LeetCode/tree/master/0815-bus-routes) |
 | [0994-rotting-oranges](https://github.com/SachinManral/LeetCode/tree/master/0994-rotting-oranges) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/SachinManral/LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -341,4 +344,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/SachinManral/LeetCode/tree/master/0877-stone-game) |
+## Graph Theory
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SachinManral/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SachinManral/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SachinManral/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
