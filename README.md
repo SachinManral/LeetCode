@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/SachinManral/LeetCode/tree/master/2050-count-good-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SachinManral/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/SachinManral/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2939-maximum-xor-product](https://github.com/SachinManral/LeetCode/tree/master/2939-maximum-xor-product) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SachinManral/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SachinManral/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SachinManral/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -185,12 +186,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/SachinManral/LeetCode/tree/master/0979-di-string-match) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/SachinManral/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/SachinManral/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2939-maximum-xor-product](https://github.com/SachinManral/LeetCode/tree/master/2939-maximum-xor-product) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SachinManral/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/SachinManral/LeetCode/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SachinManral/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2939-maximum-xor-product](https://github.com/SachinManral/LeetCode/tree/master/2939-maximum-xor-product) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SachinManral/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Binary Search
 |  |
