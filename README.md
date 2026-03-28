@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/SachinManral/LeetCode/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SachinManral/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/SachinManral/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SachinManral/LeetCode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1925-count-square-sum-triples](https://github.com/SachinManral/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SachinManral/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/SachinManral/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SachinManral/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/SachinManral/LeetCode/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SachinManral/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SachinManral/LeetCode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2939-maximum-xor-product](https://github.com/SachinManral/LeetCode/tree/master/2939-maximum-xor-product) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SachinManral/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Binary Search
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/SachinManral/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/SachinManral/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SachinManral/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SachinManral/LeetCode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Counting
 |  |
 | ------- |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/SachinManral/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/SachinManral/LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/SachinManral/LeetCode/tree/master/0050-powx-n) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SachinManral/LeetCode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SachinManral/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/SachinManral/LeetCode/tree/master/2050-count-good-numbers) |
 ## Queue
@@ -327,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SachinManral/LeetCode/tree/master/0070-climbing-stairs) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SachinManral/LeetCode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Prefix Sum
 |  |
 | ------- |
