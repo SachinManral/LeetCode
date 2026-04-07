@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/SachinManral/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/SachinManral/LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1470-shuffle-the-array](https://github.com/SachinManral/LeetCode/tree/master/1470-shuffle-the-array) |
+| [1473-paint-house-iii](https://github.com/SachinManral/LeetCode/tree/master/1473-paint-house-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SachinManral/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/SachinManral/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1646-kth-missing-positive-number](https://github.com/SachinManral/LeetCode/tree/master/1646-kth-missing-positive-number) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/SachinManral/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/SachinManral/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SachinManral/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1473-paint-house-iii](https://github.com/SachinManral/LeetCode/tree/master/1473-paint-house-iii) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SachinManral/LeetCode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Counting
 |  |
