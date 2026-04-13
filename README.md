@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/SachinManral/LeetCode/tree/master/1651-shuffle-string) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SachinManral/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SachinManral/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/SachinManral/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/SachinManral/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SachinManral/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SachinManral/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
