@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SachinManral/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SachinManral/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SachinManral/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2463-minimum-total-distance-traveled](https://github.com/SachinManral/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2551-apply-operations-to-an-array](https://github.com/SachinManral/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2751-robot-collisions](https://github.com/SachinManral/LeetCode/tree/master/2751-robot-collisions) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SachinManral/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-paint-house-iii](https://github.com/SachinManral/LeetCode/tree/master/1473-paint-house-iii) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SachinManral/LeetCode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SachinManral/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [2463-minimum-total-distance-traveled](https://github.com/SachinManral/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 ## Counting
 |  |
 | ------- |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/SachinManral/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SachinManral/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SachinManral/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2463-minimum-total-distance-traveled](https://github.com/SachinManral/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/SachinManral/LeetCode/tree/master/2751-robot-collisions) |
 ## Sliding Window
 |  |
