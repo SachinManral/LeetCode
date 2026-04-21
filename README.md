@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/SachinManral/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1646-kth-missing-positive-number](https://github.com/SachinManral/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/SachinManral/LeetCode/tree/master/1651-shuffle-string) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SachinManral/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SachinManral/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SachinManral/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/SachinManral/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/SachinManral/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SachinManral/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SachinManral/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SachinManral/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -424,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/SachinManral/LeetCode/tree/master/0085-maximal-rectangle) |
+## Union-Find
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SachinManral/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
