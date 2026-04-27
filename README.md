@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/SachinManral/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/SachinManral/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/SachinManral/LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SachinManral/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1470-shuffle-the-array](https://github.com/SachinManral/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1473-paint-house-iii](https://github.com/SachinManral/LeetCode/tree/master/1473-paint-house-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SachinManral/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/SachinManral/LeetCode/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/SachinManral/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/SachinManral/LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SachinManral/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SachinManral/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SachinManral/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SachinManral/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/SachinManral/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SachinManral/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SachinManral/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SachinManral/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SachinManral/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SachinManral/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Two Pointers
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/SachinManral/LeetCode/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/SachinManral/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/SachinManral/LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SachinManral/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SachinManral/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Game Theory
 |  |
@@ -443,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SachinManral/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SachinManral/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SachinManral/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Geometry
