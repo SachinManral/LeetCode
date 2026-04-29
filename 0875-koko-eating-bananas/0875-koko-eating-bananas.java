@@ -4,8 +4,10 @@ class Solution {
 
         int n = piles.length;
 
-        for (int i = 0; i < n; i++) {
-            max = Math.max(max,piles[i]);
+        for (int p:piles) {
+            if(max<p){
+                max =p;
+            }
         }
 
         int high = max;
