@@ -20,14 +20,14 @@ class Solution {
         }
         return ans;
     }
-    public boolean isValid(int weight, int days, int[] arr){
+    public boolean isValid(int weight, int days, int[] weights){
         int d = 1;
         int sum = 0;
-        int n = arr.length;
-        for(int a:arr){
-            sum += a;
+        int n = weights.length;
+        for(int w:weights){
+            sum += w;
             if(sum > weight){
-                sum = a;
+                sum = w;
                 d++;
             }
         }
