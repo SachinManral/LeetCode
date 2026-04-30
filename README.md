@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SachinManral/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SachinManral/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SachinManral/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/SachinManral/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## String
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SachinManral/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SachinManral/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SachinManral/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/SachinManral/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SachinManral/LeetCode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SachinManral/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2463-minimum-total-distance-traveled](https://github.com/SachinManral/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/SachinManral/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Counting
 |  |
 | ------- |
