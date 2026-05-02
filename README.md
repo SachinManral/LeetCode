@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SachinManral/LeetCode/tree/master/0070-climbing-stairs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SachinManral/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0728-self-dividing-numbers](https://github.com/SachinManral/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [0788-rotated-digits](https://github.com/SachinManral/LeetCode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/SachinManral/LeetCode/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SachinManral/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/SachinManral/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/SachinManral/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0741-cherry-pickup](https://github.com/SachinManral/LeetCode/tree/master/0741-cherry-pickup) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SachinManral/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0788-rotated-digits](https://github.com/SachinManral/LeetCode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/SachinManral/LeetCode/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/SachinManral/LeetCode/tree/master/0879-profitable-schemes) |
 | [0931-minimum-falling-path-sum](https://github.com/SachinManral/LeetCode/tree/master/0931-minimum-falling-path-sum) |
