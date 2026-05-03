@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/SachinManral/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/SachinManral/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/SachinManral/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [0796-rotate-string](https://github.com/SachinManral/LeetCode/tree/master/0796-rotate-string) |
 | [0979-di-string-match](https://github.com/SachinManral/LeetCode/tree/master/0979-di-string-match) |
 | [1078-remove-outermost-parentheses](https://github.com/SachinManral/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/SachinManral/LeetCode/tree/master/1092-shortest-common-supersequence) |
@@ -469,4 +470,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SachinManral/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/SachinManral/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
