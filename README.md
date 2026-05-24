@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/SachinManral/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/SachinManral/LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1306-jump-game-iii](https://github.com/SachinManral/LeetCode/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/SachinManral/LeetCode/tree/master/1340-jump-game-v) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SachinManral/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1470-shuffle-the-array](https://github.com/SachinManral/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1473-paint-house-iii](https://github.com/SachinManral/LeetCode/tree/master/1473-paint-house-iii) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/SachinManral/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SachinManral/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SachinManral/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1340-jump-game-v](https://github.com/SachinManral/LeetCode/tree/master/1340-jump-game-v) |
 | [1473-paint-house-iii](https://github.com/SachinManral/LeetCode/tree/master/1473-paint-house-iii) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SachinManral/LeetCode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SachinManral/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/SachinManral/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0645-set-mismatch](https://github.com/SachinManral/LeetCode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/SachinManral/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [1340-jump-game-v](https://github.com/SachinManral/LeetCode/tree/master/1340-jump-game-v) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SachinManral/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SachinManral/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2463-minimum-total-distance-traveled](https://github.com/SachinManral/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
