@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1513-number-of-substrings-with-only-1s](https://github.com/SachinManral/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1651-shuffle-string](https://github.com/SachinManral/LeetCode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SachinManral/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1871-jump-game-vii](https://github.com/SachinManral/LeetCode/tree/master/1871-jump-game-vii) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/SachinManral/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/SachinManral/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/SachinManral/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-paint-house-iii](https://github.com/SachinManral/LeetCode/tree/master/1473-paint-house-iii) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SachinManral/LeetCode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SachinManral/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [1871-jump-game-vii](https://github.com/SachinManral/LeetCode/tree/master/1871-jump-game-vii) |
 | [2463-minimum-total-distance-traveled](https://github.com/SachinManral/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/SachinManral/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/SachinManral/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/SachinManral/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [1871-jump-game-vii](https://github.com/SachinManral/LeetCode/tree/master/1871-jump-game-vii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/SachinManral/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/SachinManral/LeetCode/tree/master/1871-jump-game-vii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SachinManral/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Counting Sort
 |  |
