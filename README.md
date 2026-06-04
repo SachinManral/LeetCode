@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SachinManral/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SachinManral/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SachinManral/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/SachinManral/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Matrix
 |  |
 | ------- |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/SachinManral/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/SachinManral/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/SachinManral/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/SachinManral/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Counting
 |  |
 | ------- |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/SachinManral/LeetCode/tree/master/1925-count-square-sum-triples) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/SachinManral/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Breadth-First Search
 |  |
 | ------- |
