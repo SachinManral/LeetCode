@@ -14,28 +14,34 @@
  * }
  */
 class Solution {
-    public TreeNode createBinaryTree(int[][] A) {
-        Map<Integer, TreeNode> nodes = new HashMap<>(A.length + 1, 1);
-        int root = 0;
-
-        for (int[] d : A) {
-            int x = d[0], y = d[1];
-            if (!nodes.containsKey(x)) {
-                nodes.put(x, new TreeNode(x));
-                root ^= x;
-            }
-            if (!nodes.containsKey(y)) {
-                nodes.put(y, new TreeNode(y));
-                root ^= y;
-            }
-            if (d[2] == 1) {
-                nodes.get(x).left = nodes.get(y);
-            } else {
-                nodes.get(x).right = nodes.get(y);
-            }
-            root ^= y;
+    public TreeNode createBinaryTree(int[][] descriptions) {
+        
+        Map<Integer, TreeNode> nodes = new HashMap<>();
+        
+        Set<Integer> children = new HashSet<>();
+        
+        for (int[] d : descriptions) {
+            int parent = d[0];
+            int child = d[1];
+            int isLeft = d[2];
+            
+            nodes.putIfAbsent(parent, new TreeNode(parent));
+            
+            nodes.putIfAbsent(child, new TreeNode(child));
+            
+            if (isLeft == 1)
+                nodes.get(parent).left = nodes.get(child);
+            else
+                nodes.get(parent).right = nodes.get(child);
+            
+            children.add(child);
         }
-
-        return nodes.get(root);
+        
+        for (int value : nodes.keySet()) {
+            if (!children.contains(value))
+                return nodes.get(value);
+        }
+        
+        return null;
     }
 }
