@@ -29,17 +29,18 @@ class Solution {
             
             nodes.putIfAbsent(child, new TreeNode(child));
             
-            if (isLeft == 1)
+            if (isLeft == 1){
                 nodes.get(parent).left = nodes.get(child);
-            else
+            }else{
                 nodes.get(parent).right = nodes.get(child);
-            
+            }
             children.add(child);
         }
         
         for (int value : nodes.keySet()) {
-            if (!children.contains(value))
+            if (!children.contains(value)){
                 return nodes.get(value);
+            }
         }
         
         return null;
