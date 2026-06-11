@@ -460,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SachinManral/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/SachinManral/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SachinManral/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/SachinManral/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/SachinManral/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/SachinManral/LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/SachinManral/LeetCode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/SachinManral/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SachinManral/LeetCode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SachinManral/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/SachinManral/LeetCode/tree/master/2050-count-good-numbers) |
