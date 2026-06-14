@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/SachinManral/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SachinManral/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/SachinManral/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SachinManral/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/SachinManral/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2751-robot-collisions](https://github.com/SachinManral/LeetCode/tree/master/2751-robot-collisions) |
 ## Tree
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SachinManral/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0979-di-string-match](https://github.com/SachinManral/LeetCode/tree/master/0979-di-string-match) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SachinManral/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SachinManral/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SachinManral/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SachinManral/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/SachinManral/LeetCode/tree/master/2540-minimum-common-value) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/SachinManral/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SachinManral/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/SachinManral/LeetCode/tree/master/0206-reverse-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SachinManral/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
