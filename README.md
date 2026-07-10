@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SachinManral/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SachinManral/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3533-snake-in-matrix](https://github.com/SachinManral/LeetCode/tree/master/3533-snake-in-matrix) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SachinManral/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SachinManral/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SachinManral/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SachinManral/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/SachinManral/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/SachinManral/LeetCode/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/SachinManral/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SachinManral/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SachinManral/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SachinManral/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Greedy
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/SachinManral/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SachinManral/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2939-maximum-xor-product](https://github.com/SachinManral/LeetCode/tree/master/2939-maximum-xor-product) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SachinManral/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SachinManral/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SachinManral/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SachinManral/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SachinManral/LeetCode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SachinManral/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2939-maximum-xor-product](https://github.com/SachinManral/LeetCode/tree/master/2939-maximum-xor-product) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SachinManral/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SachinManral/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SachinManral/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Binary Search
@@ -366,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SachinManral/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/SachinManral/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SachinManral/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SachinManral/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SachinManral/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SachinManral/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Simulation
@@ -454,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/SachinManral/LeetCode/tree/master/1871-jump-game-vii) |
 | [2463-minimum-total-distance-traveled](https://github.com/SachinManral/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/SachinManral/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SachinManral/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SachinManral/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SachinManral/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/SachinManral/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -488,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/SachinManral/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/SachinManral/LeetCode/tree/master/2751-robot-collisions) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SachinManral/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SachinManral/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SachinManral/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SachinManral/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sliding Window
@@ -613,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SachinManral/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SachinManral/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SachinManral/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SachinManral/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
