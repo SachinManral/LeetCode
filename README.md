@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/SachinManral/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/SachinManral/LeetCode/tree/master/0645-set-mismatch) |
 | [0721-accounts-merge](https://github.com/SachinManral/LeetCode/tree/master/0721-accounts-merge) |
+| [0740-delete-and-earn](https://github.com/SachinManral/LeetCode/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/SachinManral/LeetCode/tree/master/0741-cherry-pickup) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/SachinManral/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0815-bus-routes](https://github.com/SachinManral/LeetCode/tree/master/0815-bus-routes) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/SachinManral/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0645-set-mismatch](https://github.com/SachinManral/LeetCode/tree/master/0645-set-mismatch) |
 | [0721-accounts-merge](https://github.com/SachinManral/LeetCode/tree/master/0721-accounts-merge) |
+| [0740-delete-and-earn](https://github.com/SachinManral/LeetCode/tree/master/0740-delete-and-earn) |
 | [0815-bus-routes](https://github.com/SachinManral/LeetCode/tree/master/0815-bus-routes) |
 | [1189-maximum-number-of-balloons](https://github.com/SachinManral/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/SachinManral/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/SachinManral/LeetCode/tree/master/0518-coin-change-ii) |
 | [0576-out-of-boundary-paths](https://github.com/SachinManral/LeetCode/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/SachinManral/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [0740-delete-and-earn](https://github.com/SachinManral/LeetCode/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/SachinManral/LeetCode/tree/master/0741-cherry-pickup) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SachinManral/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/SachinManral/LeetCode/tree/master/0788-rotated-digits) |
