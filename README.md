@@ -644,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/SachinManral/LeetCode/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SachinManral/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SachinManral/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/SachinManral/LeetCode/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2258-escape-the-spreading-fire](https://github.com/SachinManral/LeetCode/tree/master/2258-escape-the-spreading-fire) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SachinManral/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SachinManral/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -659,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/SachinManral/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0743-network-delay-time](https://github.com/SachinManral/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SachinManral/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/SachinManral/LeetCode/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SachinManral/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SachinManral/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SachinManral/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/SachinManral/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SachinManral/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/SachinManral/LeetCode/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SachinManral/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Eulerian Circuit
 |  |
