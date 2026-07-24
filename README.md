@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/SachinManral/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/SachinManral/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SachinManral/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/SachinManral/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SachinManral/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3533-snake-in-matrix](https://github.com/SachinManral/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SachinManral/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SachinManral/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SachinManral/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SachinManral/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/SachinManral/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SachinManral/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SachinManral/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SachinManral/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SachinManral/LeetCode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SachinManral/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2939-maximum-xor-product](https://github.com/SachinManral/LeetCode/tree/master/2939-maximum-xor-product) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/SachinManral/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SachinManral/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SachinManral/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SachinManral/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/SachinManral/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SachinManral/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SachinManral/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/SachinManral/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SachinManral/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Breadth-First Search
 |  |
