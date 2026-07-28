@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SachinManral/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SachinManral/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/SachinManral/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SachinManral/LeetCode/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SachinManral/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SachinManral/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SachinManral/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SachinManral/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/SachinManral/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2751-robot-collisions](https://github.com/SachinManral/LeetCode/tree/master/2751-robot-collisions) |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SachinManral/LeetCode/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 ## Tree
 |  |
 | ------- |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/SachinManral/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SachinManral/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2939-maximum-xor-product](https://github.com/SachinManral/LeetCode/tree/master/2939-maximum-xor-product) |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SachinManral/LeetCode/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SachinManral/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SachinManral/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SachinManral/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/SachinManral/LeetCode/tree/master/1871-jump-game-vii) |
 | [2463-minimum-total-distance-traveled](https://github.com/SachinManral/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/SachinManral/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SachinManral/LeetCode/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SachinManral/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SachinManral/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SachinManral/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -707,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/SachinManral/LeetCode/tree/master/0085-maximal-rectangle) |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SachinManral/LeetCode/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 ## Union-Find
 |  |
 | ------- |
