@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SachinManral/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/SachinManral/LeetCode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/SachinManral/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/SachinManral/LeetCode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/SachinManral/LeetCode/tree/master/0072-edit-distance) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SachinManral/LeetCode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/SachinManral/LeetCode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/SachinManral/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/SachinManral/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SachinManral/LeetCode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/SachinManral/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SachinManral/LeetCode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/SachinManral/LeetCode/tree/master/0051-n-queens) |
