@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/SachinManral/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/SachinManral/LeetCode/tree/master/1340-jump-game-v) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SachinManral/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1406-stone-game-iii](https://github.com/SachinManral/LeetCode/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/SachinManral/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1473-paint-house-iii](https://github.com/SachinManral/LeetCode/tree/master/1473-paint-house-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SachinManral/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/SachinManral/LeetCode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/SachinManral/LeetCode/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SachinManral/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1406-stone-game-iii](https://github.com/SachinManral/LeetCode/tree/master/1406-stone-game-iii) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/SachinManral/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SachinManral/LeetCode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1840-maximum-building-height](https://github.com/SachinManral/LeetCode/tree/master/1840-maximum-building-height) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SachinManral/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SachinManral/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/SachinManral/LeetCode/tree/master/1340-jump-game-v) |
+| [1406-stone-game-iii](https://github.com/SachinManral/LeetCode/tree/master/1406-stone-game-iii) |
 | [1473-paint-house-iii](https://github.com/SachinManral/LeetCode/tree/master/1473-paint-house-iii) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SachinManral/LeetCode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SachinManral/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
@@ -696,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/SachinManral/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/SachinManral/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/SachinManral/LeetCode/tree/master/1406-stone-game-iii) |
 ## Graph Theory
 |  |
 | ------- |
@@ -787,4 +791,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/SachinManral/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SachinManral/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SachinManral/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/SachinManral/LeetCode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/SachinManral/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
