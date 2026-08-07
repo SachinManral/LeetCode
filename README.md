@@ -534,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SachinManral/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1871-jump-game-vii](https://github.com/SachinManral/LeetCode/tree/master/1871-jump-game-vii) |
 | [2463-minimum-total-distance-traveled](https://github.com/SachinManral/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
+| [2466-count-ways-to-build-good-strings](https://github.com/SachinManral/LeetCode/tree/master/2466-count-ways-to-build-good-strings) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/SachinManral/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SachinManral/LeetCode/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SachinManral/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
