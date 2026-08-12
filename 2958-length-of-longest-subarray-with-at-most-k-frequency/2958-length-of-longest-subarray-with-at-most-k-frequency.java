@@ -5,7 +5,7 @@ class Solution {
         int j=0;
 
         HashMap<Integer, Integer> map = new HashMap<>();
-        int ans = 1;
+        int ans = 0;
 
         while(j<n){
             int freq = map.getOrDefault(nums[j], 0);
