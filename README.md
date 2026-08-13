@@ -501,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/SachinManral/LeetCode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1070-product-sales-analysis-iii](https://github.com/SachinManral/LeetCode/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/SachinManral/LeetCode/tree/master/1075-project-employees-i) |
+| [1084-sales-analysis-iii](https://github.com/SachinManral/LeetCode/tree/master/1084-sales-analysis-iii) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/SachinManral/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/SachinManral/LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1934-confirmation-rate](https://github.com/SachinManral/LeetCode/tree/master/1934-confirmation-rate) |
