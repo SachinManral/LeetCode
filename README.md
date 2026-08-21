@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SachinManral/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SachinManral/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SachinManral/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SachinManral/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SachinManral/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/SachinManral/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SachinManral/LeetCode/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2608-count-the-digits-that-divide-a-number](https://github.com/SachinManral/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2939-maximum-xor-product](https://github.com/SachinManral/LeetCode/tree/master/2939-maximum-xor-product) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SachinManral/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SachinManral/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SachinManral/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SachinManral/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SachinManral/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SachinManral/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SachinManral/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2939-maximum-xor-product](https://github.com/SachinManral/LeetCode/tree/master/2939-maximum-xor-product) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SachinManral/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SachinManral/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SachinManral/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SachinManral/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SachinManral/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2258-escape-the-spreading-fire](https://github.com/SachinManral/LeetCode/tree/master/2258-escape-the-spreading-fire) |
 | [2540-minimum-common-value](https://github.com/SachinManral/LeetCode/tree/master/2540-minimum-common-value) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SachinManral/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SachinManral/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SachinManral/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/SachinManral/LeetCode/tree/master/3488-closest-equal-element-queries) |
@@ -854,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/SachinManral/LeetCode/tree/master/0062-unique-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SachinManral/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/SachinManral/LeetCode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SachinManral/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SachinManral/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Merge Sort
 |  |
@@ -868,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SachinManral/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SachinManral/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SachinManral/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SachinManral/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SachinManral/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
