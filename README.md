@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/SachinManral/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SachinManral/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SachinManral/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1872-stone-game-viii](https://github.com/SachinManral/LeetCode/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/SachinManral/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SachinManral/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SachinManral/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SachinManral/LeetCode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1840-maximum-building-height](https://github.com/SachinManral/LeetCode/tree/master/1840-maximum-building-height) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SachinManral/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1872-stone-game-viii](https://github.com/SachinManral/LeetCode/tree/master/1872-stone-game-viii) |
 | [1925-count-square-sum-triples](https://github.com/SachinManral/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SachinManral/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SachinManral/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SachinManral/LeetCode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SachinManral/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1871-jump-game-vii](https://github.com/SachinManral/LeetCode/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/SachinManral/LeetCode/tree/master/1872-stone-game-viii) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/SachinManral/LeetCode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2463-minimum-total-distance-traveled](https://github.com/SachinManral/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2466-count-ways-to-build-good-strings](https://github.com/SachinManral/LeetCode/tree/master/2466-count-ways-to-build-good-strings) |
@@ -731,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/SachinManral/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/SachinManral/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/SachinManral/LeetCode/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/SachinManral/LeetCode/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/SachinManral/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SachinManral/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SachinManral/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -781,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/SachinManral/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/SachinManral/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SachinManral/LeetCode/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/SachinManral/LeetCode/tree/master/1872-stone-game-viii) |
 ## Graph Theory
 |  |
 | ------- |
@@ -884,11 +889,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/SachinManral/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SachinManral/LeetCode/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/SachinManral/LeetCode/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/SachinManral/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SachinManral/LeetCode/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/SachinManral/LeetCode/tree/master/1872-stone-game-viii) |
 ## Binary Lifting
 |  |
 | ------- |
