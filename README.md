@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/SachinManral/LeetCode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/SachinManral/LeetCode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/SachinManral/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/SachinManral/LeetCode/tree/master/0242-valid-anagram) |
 | [0332-reconstruct-itinerary](https://github.com/SachinManral/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0392-is-subsequence](https://github.com/SachinManral/LeetCode/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/SachinManral/LeetCode/tree/master/0474-ones-and-zeroes) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/SachinManral/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/SachinManral/LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/SachinManral/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/SachinManral/LeetCode/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/SachinManral/LeetCode/tree/master/0645-set-mismatch) |
 | [0721-accounts-merge](https://github.com/SachinManral/LeetCode/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/SachinManral/LeetCode/tree/master/0740-delete-and-earn) |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/SachinManral/LeetCode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/SachinManral/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/SachinManral/LeetCode/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/SachinManral/LeetCode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/SachinManral/LeetCode/tree/master/0274-h-index) |
 | [0332-reconstruct-itinerary](https://github.com/SachinManral/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0368-largest-divisible-subset](https://github.com/SachinManral/LeetCode/tree/master/0368-largest-divisible-subset) |
