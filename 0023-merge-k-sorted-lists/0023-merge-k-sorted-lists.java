@@ -13,10 +13,9 @@ class Solution {
         ArrayList<Integer> list = new ArrayList<>();
 
         for(ListNode l:lists){
-            ListNode head = l;
-            while(head!=null ){
-                list.add(head.val);
-                head = head.next;
+            while(l!=null ){
+                list.add(l.val);
+                l = l.next;
             }
         }
         if(list.size()==0) return null;
