@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/SachinManral/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SachinManral/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SachinManral/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SachinManral/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2833-furthest-point-from-origin](https://github.com/SachinManral/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SachinManral/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SachinManral/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SachinManral/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SachinManral/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SachinManral/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SachinManral/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/SachinManral/LeetCode/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/SachinManral/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SachinManral/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SachinManral/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/SachinManral/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SachinManral/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SachinManral/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2939-maximum-xor-product](https://github.com/SachinManral/LeetCode/tree/master/2939-maximum-xor-product) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SachinManral/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SachinManral/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -636,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/SachinManral/LeetCode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2463-minimum-total-distance-traveled](https://github.com/SachinManral/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2466-count-ways-to-build-good-strings](https://github.com/SachinManral/LeetCode/tree/master/2466-count-ways-to-build-good-strings) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SachinManral/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/SachinManral/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/SachinManral/LeetCode/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SachinManral/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
