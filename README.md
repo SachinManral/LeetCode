@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/SachinManral/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SachinManral/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/SachinManral/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SachinManral/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1651-shuffle-string](https://github.com/SachinManral/LeetCode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SachinManral/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1871-jump-game-vii](https://github.com/SachinManral/LeetCode/tree/master/1871-jump-game-vii) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/SachinManral/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/SachinManral/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SachinManral/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SachinManral/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SachinManral/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/SachinManral/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/SachinManral/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/SachinManral/LeetCode/tree/master/0621-task-scheduler) |
 | [0979-di-string-match](https://github.com/SachinManral/LeetCode/tree/master/0979-di-string-match) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/SachinManral/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SachinManral/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/SachinManral/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SachinManral/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/SachinManral/LeetCode/tree/master/2126-destroying-asteroids) |
@@ -695,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/SachinManral/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/SachinManral/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/SachinManral/LeetCode/tree/master/1340-jump-game-v) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SachinManral/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SachinManral/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1840-maximum-building-height](https://github.com/SachinManral/LeetCode/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/SachinManral/LeetCode/tree/master/2126-destroying-asteroids) |
