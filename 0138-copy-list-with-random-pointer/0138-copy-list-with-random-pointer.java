@@ -13,95 +13,43 @@ class Node {
 }
 */
 
-// class Solution {
-//     public Node copyRandomList(Node head) {
-//         if(head==null) return head;
-
-//         HashMap<Node, Node> map = new HashMap<>();
-//         Node curr = head;
-//         Node prev = null;
-//         Node newHead = null;
-
-//         while(curr!=null){
-//             Node temp = new Node(curr.val);
-
-//             map.put(curr, temp);
-
-//             if(newHead == null){
-//                 newHead = temp;
-//                 prev = newHead;
-//             }else{
-//                 prev.next = temp;
-//                 prev = temp;
-//             }
-//             curr = curr.next;
-//         }
-
-//         //fill random
-//         curr = head;
-//         Node newCurr = newHead;
-
-//         while(curr!=null){
-//             if(curr.random==null){
-//                 newCurr.random = null;
-//             }else{
-//                 // Node rNode = curr.random;
-//                 newCurr.random = map.get(curr.random);
-//             }
-
-//             curr = curr.next;
-//             newCurr = newCurr.next;
-//         }
-//         return newHead;
-//     }
-// }
-
-
-
-
-
-
-
 class Solution {
     public Node copyRandomList(Node head) {
         if(head==null) return head;
 
-        //Insert new Nodes b/w LL
-        Node curr = head;
-        while(curr!=null){
-            Node currNext = curr.next;
-            curr.next = new Node(curr.val);
-            curr.next.next = currNext;
+        HashMap<Node, Node> map = new HashMap<>();         //original, copy
+        Node cur = head;
+        Node prev = null;
+        Node newHead = null;
 
-            curr = currNext;
+        while(cur!=null){
+            Node temp = new Node(cur.val);
+            map.put(cur, temp);
+
+            if(newHead==null){
+                newHead = temp;
+                prev = newHead;
+            }else{
+                prev.next = temp;
+                prev = prev.next;
+            }
+            cur = cur.next;
         }
 
-        //Deep copy of Random pointers
-        curr= head;
-        while(curr!=null && curr.next !=null){
+        //fill random
+        cur = head;
+        Node newCur = newHead;
 
-            if(curr.random==null){
-                curr.next.random = null;
+        while(cur!=null){
+            if(cur.random==null){
+                newCur.random=null;
             }else{
-                curr.next.random = curr.random.next;
+                newCur.random = map.get(cur.random);
             }
 
-            curr = curr.next.next;
+            cur = cur.next;
+            newCur = newCur.next;
         }
-
-        //seperate LL
-        Node newHead = head.next;
-        Node newCurr = newHead;
-        curr = head;
-
-        while(curr!=null && newCurr!=null){
-            curr.next = curr.next==null?null:curr.next.next;
-            newCurr.next = newCurr.next==null?null:newCurr.next.next;
-            
-            curr = curr.next;
-            newCurr = newCurr.next;
-        }
-
         return newHead;
     }
 }
