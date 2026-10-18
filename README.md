@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SachinManral/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/SachinManral/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SachinManral/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SachinManral/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1646-kth-missing-positive-number](https://github.com/SachinManral/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/SachinManral/LeetCode/tree/master/1651-shuffle-string) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SachinManral/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SachinManral/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-stone-game-iii](https://github.com/SachinManral/LeetCode/tree/master/1406-stone-game-iii) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/SachinManral/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SachinManral/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SachinManral/LeetCode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SachinManral/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1840-maximum-building-height](https://github.com/SachinManral/LeetCode/tree/master/1840-maximum-building-height) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SachinManral/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/SachinManral/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SachinManral/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SachinManral/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SachinManral/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SachinManral/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SachinManral/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -693,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/SachinManral/LeetCode/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/SachinManral/LeetCode/tree/master/1406-stone-game-iii) |
 | [1473-paint-house-iii](https://github.com/SachinManral/LeetCode/tree/master/1473-paint-house-iii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SachinManral/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SachinManral/LeetCode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SachinManral/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SachinManral/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
@@ -793,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SachinManral/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SachinManral/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/SachinManral/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SachinManral/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SachinManral/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SachinManral/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Union Find
@@ -806,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/SachinManral/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SachinManral/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/SachinManral/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SachinManral/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SachinManral/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SachinManral/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SachinManral/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -865,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SachinManral/LeetCode/tree/master/0070-climbing-stairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SachinManral/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SachinManral/LeetCode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Prefix Sum
 |  |
@@ -993,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/SachinManral/LeetCode/tree/master/0721-accounts-merge) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SachinManral/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SachinManral/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SachinManral/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SachinManral/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SachinManral/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SachinManral/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -1026,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SachinManral/LeetCode/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SachinManral/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SachinManral/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/SachinManral/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/SachinManral/LeetCode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
@@ -1041,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SachinManral/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SachinManral/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Number Theory
 |  |
 | ------- |
@@ -1119,4 +1129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SachinManral/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/SachinManral/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SachinManral/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
