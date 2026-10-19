@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/SachinManral/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SachinManral/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SachinManral/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SachinManral/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SachinManral/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/SachinManral/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SachinManral/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SachinManral/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SachinManral/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SachinManral/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SachinManral/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2258-escape-the-spreading-fire](https://github.com/SachinManral/LeetCode/tree/master/2258-escape-the-spreading-fire) |
 | [2540-minimum-common-value](https://github.com/SachinManral/LeetCode/tree/master/2540-minimum-common-value) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SachinManral/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -758,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SachinManral/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SachinManral/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1840-maximum-building-height](https://github.com/SachinManral/LeetCode/tree/master/1840-maximum-building-height) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SachinManral/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/SachinManral/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SachinManral/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SachinManral/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
