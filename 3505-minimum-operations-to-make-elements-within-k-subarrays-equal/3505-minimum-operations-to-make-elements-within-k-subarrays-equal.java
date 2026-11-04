@@ -3,15 +3,11 @@ class Solution {
         PriorityQueue<Integer> left = new PriorityQueue<>(Comparator.reverseOrder());
         PriorityQueue<Integer> right = new PriorityQueue<>();
         Map<Integer, Integer> delayed = new HashMap<>();
-        int leftSize = 0,
-            rightSize = 0;
-        long sumL = 0,
-            sumR = 0;
+        int leftSize = 0,rightSize = 0;
+        long sumL = 0, sumR = 0;
 
         void prune(PriorityQueue<Integer> heap) {
-            while (
-                !heap.isEmpty() && delayed.getOrDefault(heap.peek(), 0) > 0
-            ) {
+            while (!heap.isEmpty() && delayed.getOrDefault(heap.peek(), 0) > 0) {
                 int num = heap.poll();
                 delayed.put(num, delayed.get(num) - 1);
             }
