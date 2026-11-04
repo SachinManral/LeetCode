@@ -1,8 +1,6 @@
 class Solution {
     public class DualHeap {
-        PriorityQueue<Integer> left = new PriorityQueue<>(
-            Comparator.reverseOrder()
-        );
+        PriorityQueue<Integer> left = new PriorityQueue<>(Comparator.reverseOrder());
         PriorityQueue<Integer> right = new PriorityQueue<>();
         Map<Integer, Integer> delayed = new HashMap<>();
         int leftSize = 0,
