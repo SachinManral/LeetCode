@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/SachinManral/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/SachinManral/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/SachinManral/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SachinManral/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/SachinManral/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SachinManral/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SachinManral/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SachinManral/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/SachinManral/LeetCode/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/SachinManral/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SachinManral/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SachinManral/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SachinManral/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/SachinManral/LeetCode/tree/master/0486-predict-the-winner) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/SachinManral/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/SachinManral/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/SachinManral/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SachinManral/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0621-task-scheduler](https://github.com/SachinManral/LeetCode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/SachinManral/LeetCode/tree/master/0645-set-mismatch) |
 | [0721-accounts-merge](https://github.com/SachinManral/LeetCode/tree/master/0721-accounts-merge) |
@@ -1048,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/SachinManral/LeetCode/tree/master/0146-lru-cache) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SachinManral/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SachinManral/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [2069-walking-robot-simulation-ii](https://github.com/SachinManral/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 ## Monotonic Stack
 |  |
@@ -1196,4 +1200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SachinManral/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/SachinManral/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
